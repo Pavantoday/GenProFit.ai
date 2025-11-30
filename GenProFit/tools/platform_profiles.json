@@ -1,0 +1,18 @@
+{
+  "zerodha": {
+    "name": "Zerodha",
+    "brokerage": {"delivery_pct": 0.0, "intraday_pct": 0.03, "min_intraday": 20},
+    "stt_pct": 0.0005,
+    "gst_pct": 0.18,
+    "sebi_charges_pct": 0.000001,
+    "stamp_duty_pct": 0.00015
+  },
+  "upstox": {
+    "name": "Upstox",
+    "brokerage": {"delivery_pct": 0.0, "intraday_pct": 0.03, "min_intraday": 20},
+    "stt_pct": 0.0005,
+    "gst_pct": 0.18,
+    "sebi_charges_pct": 0.000001,
+    "stamp_duty_pct": 0.00015
+  }
+}
